@@ -1,4 +1,4 @@
-## Hi there, I'm Corey 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi👋+I+am+Corey;✨+Always+learning+new+things.+✨)
 
 <!--
 **CoreyLyn/CoreyLyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
