@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.aicorey.de"><img src="https://img.shields.io/badge/Website-blog.aicorey.de-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/CoreyLyn"><img src="https://img.shields.io/badge/GitHub-CoreyLyn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -43,18 +42,13 @@ Right now, most of my work is around AI agents, automation, and tools that help 
 - Automation workflows with clear human control points
 - Productized developer tools that solve narrow problems well
 
-## GitHub Stats
+## On GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CoreyLyn&show_icons=true&theme=tokyonight&hide_border=true" alt="Corey's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreyLyn&layout=compact&theme=tokyonight&hide_border=true" alt="Corey's top languages" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=CoreyLyn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Corey's GitHub trophies" />
-</p>
+- Public projects: AI agent tools, desktop utilities, developer workflows, and small product experiments
+- Main languages: TypeScript, Go, C#, Python, Swift, and JavaScript
+- Recent focus: agent skills, automation queues, cleanup tooling, and practical interactive apps
+- More work: [repositories](https://github.com/CoreyLyn?tab=repositories) and [stars](https://github.com/CoreyLyn?tab=stars)
 
 ## Connect
 
-- Website: [blog.aicorey.de](https://blog.aicorey.de)
 - GitHub: [@CoreyLyn](https://github.com/CoreyLyn)
